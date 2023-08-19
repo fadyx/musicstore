@@ -1,0 +1,32 @@
+{
+	"editor.acceptSuggestionOnEnter": "smart",
+	"editor.autoIndent": "full",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.cursorBlinking": "phase",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+	"explorer.compactFolders": false,
+	"explorer.confirmDelete": true,
+	"explorer.confirmDragAndDrop": true,
+	"explorer.decorations.badges": true,
+	"explorer.decorations.colors": true,
+	"explorer.incrementalNaming": "simple",
+	"explorer.openEditors.visible": 9,
+	"files.enableTrash": true,
+	"files.restoreUndoStack": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"terminal.integrated.altClickMovesCursor": true,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.enableBell": true,
+	"terminal.integrated.scrollback": 100000,
+	"window.zoomLevel": 0,
+	"workbench.editor.highlightModifiedTabs": true,
+	"workbench.editor.wrapTabs": false,
+	"workbench.sideBar.location": "left",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"cSpell.words": []
+}
